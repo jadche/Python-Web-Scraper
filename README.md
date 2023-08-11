@@ -46,10 +46,6 @@ To get started with this project, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize this README according to your preferences and the specific details of your project. Make sure to update the URLs, user agents, and any additional information as needed.
